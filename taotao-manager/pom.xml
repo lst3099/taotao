@@ -19,7 +19,10 @@
 		</dependency>
 	</dependencies>
 	<modules>
-		<module>taotao-manager-web</module>
+		<module>taotao-manager-pojo</module>
+		<module>taotao-manager-dao</module>
+		<module>taotao-manager-Service</module>
+		<module>taotao-manager-web2</module>
 	</modules>
 
 	<build>
