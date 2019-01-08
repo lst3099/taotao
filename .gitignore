@@ -1,3 +1,4 @@
-/taotao-common/
-/taotao-manager/
-/taotao-parent/
+/bin/
+.settings
+.classpath
+.project
